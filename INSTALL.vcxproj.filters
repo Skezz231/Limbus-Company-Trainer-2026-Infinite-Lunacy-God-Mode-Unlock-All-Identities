@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Limbus Company\build\CMakeFiles\fa44203a25278904da7ad0450fd2c22c\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{91C49BFC-B422-3F3C-B5C9-EB2F07C4E918}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

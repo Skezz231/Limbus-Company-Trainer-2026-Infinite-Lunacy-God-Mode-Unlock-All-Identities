@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Kimad/source/repos/Limbus Company/build/cmake_install.cmake",
+		"C:/Users/Kimad/source/repos/Limbus Company/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/Users/Kimad/source/repos/Limbus Company/build/_deps/glfw-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

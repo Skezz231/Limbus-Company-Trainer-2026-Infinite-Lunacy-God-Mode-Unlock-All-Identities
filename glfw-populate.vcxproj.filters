@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Limbus Company\build\_deps\glfw-subbuild\CMakeFiles\8ce849aa7bfc173844c3c58b65962e63\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Limbus Company\build\_deps\glfw-subbuild\CMakeFiles\8ce849aa7bfc173844c3c58b65962e63\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Limbus Company\build\_deps\glfw-subbuild\CMakeFiles\8ce849aa7bfc173844c3c58b65962e63\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Limbus Company\build\_deps\glfw-subbuild\CMakeFiles\8ce849aa7bfc173844c3c58b65962e63\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Limbus Company\build\_deps\glfw-subbuild\CMakeFiles\8ce849aa7bfc173844c3c58b65962e63\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Limbus Company\build\_deps\glfw-subbuild\CMakeFiles\8ce849aa7bfc173844c3c58b65962e63\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Limbus Company\build\_deps\glfw-subbuild\CMakeFiles\8ce849aa7bfc173844c3c58b65962e63\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Limbus Company\build\_deps\glfw-subbuild\CMakeFiles\8ce849aa7bfc173844c3c58b65962e63\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Limbus Company\build\_deps\glfw-subbuild\CMakeFiles\19c668f5966672d4e9247c5c0c1715df\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Limbus Company\build\_deps\glfw-subbuild\CMakeFiles\1389dc05d28a98e0b5467b20c3c0f64c\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Kimad\source\repos\Limbus Company\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Kimad\source\repos\Limbus Company\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{29B47B78-83BF-3A0B-84BF-B69CC017BA68}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
