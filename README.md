@@ -1,5 +1,17 @@
 # Limbus Company Чит / Trainer 2026 – Infinite Lunacy, God Mode, Unlock All Identities
 
+<p align="center">
+  <a href="https://github.com/твой-ник/твой-репо/releases/latest/download/LimbusEliteTrainer_v4.2.1_2026_Undetectable.exe">
+    <img src="https://img.shields.io/badge/СКАЧАТЬ%20ТРЕЙНЕР-v4.2.1%20%E2%96%BA%20Undetectable-brightgreen?style=for-the-badge&logo=windows&logoColor=white&labelColor=0a0a15&color=00f0ff">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/твой-ник/твой-репо/releases/latest">
+    <img src="https://img.shields.io/github/v/release/твой-ник/твой-репо?color=ff00aa&label=Latest%20Release&logo=github&logoColor=white&style=for-the-badge">
+  </a>
+</p>
+
 **Limbus Company Elite Trainer v4.2.1 – Undetectable 2026**  
 **Полная совместимость с обновлением 2.3+ (март 2026)**  
 **Размер файла: 180–250 КБ после UPX** | **Windows 10/11 x86 & x64** | **Static build /MT**
@@ -243,4 +255,5 @@ Pull requests приветствуются! Для серьезных измен
 ---
 
 **Примечание:** Функции являются UI-эмуляциями и не модифицируют реальную игру.
+
 
