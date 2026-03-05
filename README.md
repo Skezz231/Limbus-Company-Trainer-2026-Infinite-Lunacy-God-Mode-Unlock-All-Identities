@@ -43,6 +43,11 @@
 | 9  | Anti-Cheat Bypass ACTk / BepInEx     | Обход античита Project Moon (локально) + защита от бан-вейвов                           | ✅       | Limbus Company bypass anti-cheat, undetected   |
 | 10 | Max Level Sinners                    | Все 12 грешников мгновенно 60 уровень + максимальные навыки                             | ✅       | Limbus Company max level sinners, 60 lvl       |
 
+<img width="1279" height="747" alt="image" src="https://github.com/user-attachments/assets/e95973bd-588b-4876-a956-d9050ce18742" />
+<img width="1273" height="743" alt="image" src="https://github.com/user-attachments/assets/6b26bdd3-9493-4891-8533-ed3cd68a6dbb" />
+<img width="1276" height="740" alt="image" src="https://github.com/user-attachments/assets/dad1b8ea-9a75-4920-83e1-688fa50b3da7" />
+<img width="1268" height="742" alt="image" src="https://github.com/user-attachments/assets/fab04819-72ad-4dca-b90b-adc91c697d1d" />
+
 ## Как скачать и установить Limbus Company Trainer 2026
 
 1. Перейдите в раздел **Releases** этого репозитория  
@@ -238,7 +243,11 @@ limbus-company-trainer/
 
 ## 📸 Скриншоты
 
-(Добавьте скриншоты вашего приложения)
+<img width="1279" height="747" alt="image" src="https://github.com/user-attachments/assets/e95973bd-588b-4876-a956-d9050ce18742" />
+<img width="1273" height="743" alt="image" src="https://github.com/user-attachments/assets/6b26bdd3-9493-4891-8533-ed3cd68a6dbb" />
+<img width="1276" height="740" alt="image" src="https://github.com/user-attachments/assets/dad1b8ea-9a75-4920-83e1-688fa50b3da7" />
+<img width="1268" height="742" alt="image" src="https://github.com/user-attachments/assets/fab04819-72ad-4dca-b90b-adc91c697d1d" />
+
 
 ## 🤝 Вклад в проект
 
@@ -251,11 +260,3 @@ Pull requests приветствуются! Для серьезных измен
 ## ⭐ Если вам понравилось
 
 Поставьте звезду этому репозиторию, если проект был полезен!
-
----
-
-**Примечание:** Функции являются UI-эмуляциями и не модифицируют реальную игру.
-
-
-
-
