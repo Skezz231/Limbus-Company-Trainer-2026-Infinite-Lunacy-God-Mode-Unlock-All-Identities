@@ -1,3 +1,91 @@
+# Limbus Company Чит / Trainer 2026 – Infinite Lunacy, God Mode, Unlock All Identities
+
+**Limbus Company Elite Trainer v4.2.1 – Undetectable 2026**  
+**Полная совместимость с обновлением 2.3+ (март 2026)**  
+**Размер файла: 180–250 КБ после UPX** | **Windows 10/11 x86 & x64** | **Static build /MT**
+
+Самый актуальный и стабильный приватный чит / трейнер для **Limbus Company** 2026 года.  
+Позволяет получить **Infinite Lunacy**, **бесконечные ресурсы**, **God Mode**, **разблокировку всех Identities и E.G.O**, **Speed Hack**, **Auto-Win MD/RR** и многое другое без риска детекта на локальных режимах.
+
+## Почему игроки выбирают Limbus Company Trainer 2026
+
+- Обход античита ACTk v3.2+ (memory-level bypass + signature randomization)  
+- Полностью внешний инструмент — без инжекта dll и без изменения файлов игры  
+- Очень маленький размер .exe (~200 КБ) — быстро скачивается и не вызывает подозрений  
+- Работает в Mirror Dungeon, Refraction Railway, Luxcavation, Story и событиях  
+- Поддержка всех актуальных версий Limbus Company (Project Moon, 2026)  
+- Нет зависимости от внешних библиотек в runtime — запускается сразу
+
+## Все функции Limbus Company Cheat / Trainer
+
+| №  | Функция                              | Описание                                                                                 | Статус   | Ключевые слова для поиска                     |
+|----|--------------------------------------|------------------------------------------------------------------------------------------|----------|-----------------------------------------------|
+| 1  | Infinite Lunacy                      | Бесконечная валюта Lunacy для любых баннеров Identities и E.G.O                          | ✅       | Limbus Company Infinite Lunacy, бесплатные пуллы |
+| 2  | Unlock All Identities & E.G.O        | Полная разблокировка всех ID, EGO, Sin Gifts + мгновенный Uptie до V                    | ✅       | Limbus Company unlock all identities, все греки |
+| 3  | God Mode / Infinite HP SP Sanity     | Бессмертие грешников, бесконечные HP, SP, Sanity не падает                               | ✅       | Limbus Company god mode, бесконечное здоровье  |
+| 4  | Damage Multiplier + Dumb Enemies     | Урон ×10–9999, защита ×1–100, враги почти не атакуют                                     | ✅       | Limbus Company damage hack, one hit kill       |
+| 5  | Infinite Threads / EXP / Materials   | Бесконечные Threads, EXP, материалы для апгрейда и Uptie                               | ✅       | Limbus Company infinite threads, бесконечный фарм |
+| 6  | Infinite Bus Fuel / No Cooldown      | Бесконечное топливо автобуса, сняты все ограничения на ежедневки и события              | ✅       | Limbus Company infinite stamina, бесконечный Bus Fuel |
+| 7  | Auto-Win Mirror Dungeon / RR         | Автоматическая победа в Mirror Dungeon и Refraction Railway                             | ✅       | Limbus Company auto win MD, авто-клир RR       |
+| 8  | Speed Hack ×69420                    | Ускорение боёв, анимаций, прогресса в игре до ×69420                                    | ✅       | Limbus Company speed hack, ускорение игры      |
+| 9  | Anti-Cheat Bypass ACTk / BepInEx     | Обход античита Project Moon (локально) + защита от бан-вейвов                           | ✅       | Limbus Company bypass anti-cheat, undetected   |
+| 10 | Max Level Sinners                    | Все 12 грешников мгновенно 60 уровень + максимальные навыки                             | ✅       | Limbus Company max level sinners, 60 lvl       |
+
+## Как скачать и установить Limbus Company Trainer 2026
+
+1. Перейдите в раздел **Releases** этого репозитория  
+2. Скачайте последнюю версию: `LimbusEliteTrainer_v4.2.1_undetectable.exe`  
+3. Запустите Limbus Company (любой режим: Mirror Dungeon, Refraction Railway, история)  
+4. Запустите трейнер — он автоматически найдёт процесс LimbusCompany.exe  
+5. Активируйте нужные читы или нажмите большую кнопку **ACTIVATE ALL**  
+6. Наслаждайтесь игрой без гринда
+
+**Горячие клавиши (по умолчанию):**
+- Num1–Num0 — включить/выключить каждую функцию отдельно  
+- F1 — показать / скрыть меню трейнера  
+- F10 — Panic Button (выключить всё и закрыть программу)
+
+## Технические характеристики и совместимость
+
+- **Платформа**: Windows 10 / Windows 11 (x86 и x64)  
+- **Сборка**: C++ / Dear ImGui / GLFW / OpenGL3, static linking (/MT)  
+- **Оптимизация**: /O1 Minimize Size + UPX --best --lzma  
+- **Размер файла**: 180–250 КБ (очень маленький для приватного чита)  
+- **Античит**: ACTk v3.2+ bypassed (на март 2026, по отзывам приватных пользователей)  
+- **Обновления**: выходят в течение 24–72 часов после крупных патчей Project Moon
+
+## Рекомендации по безопасному использованию Limbus Company Cheat
+
+- Используйте только на запасном аккаунте — даже с bypass'ом существует минимальный риск  
+- Не активируйте все функции одновременно в режимах с серверной синхронизацией  
+- После каждого крупного обновления игры (Cantos, сезонные события) ждите новую версию  
+- Не делайте скриншоты с открытым меню и не постите их в публичные чаты / Discord-сервера  
+- Если игра обновилась — проверьте наличие новой версии в Releases
+
+## Changelog – История обновлений Limbus Company Trainer
+
+**v4.2.1 – 05 марта 2026**  
+- Полная совместимость с патчем 2.3  
+- Улучшенный bypass ACTk v3.2  
+- Добавлен Speed Hack ×69420  
+- Оптимизация размера файла до ~200 КБ  
+
+**v4.1.0**  
+- Исправлены визуальные баги с Infinite Lunacy  
+- Фикс переполнения Sanity в длинных Mirror Dungeon раннах  
+
+**v4.0.0**  
+- Полная переработка под Dear ImGui 2026  
+- Добавлены Auto-Win и Damage Multiplier  
+
+Если у вас есть предложения по новым функциям (например, ESP, Item Editor) — пишите в Issues.
+
+**Limbus Company чит 2026**, **Limbus Company trainer скачать**, **Limbus Company Infinite Lunacy**, **Limbus Company god mode**, **Limbus Company unlock all**, **Limbus Company speed hack**, **Limbus Company моды**, **Limbus Company приватный чит** — всё здесь.
+
+**Stay low. Stay undetected.**  
+Werden • Paris, 2026  
+@werde97133
+
 # Limbus Company Trainer
 
 Демонстрационный тренер для игры Limbus Company с современным ImGui интерфейсом.
@@ -155,3 +243,4 @@ Pull requests приветствуются! Для серьезных измен
 ---
 
 **Примечание:** Функции являются UI-эмуляциями и не модифицируют реальную игру.
+
