@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/твой-ник/твой-репо/releases/latest">
+  <a href="https://github.com/Skezz231/Limbus-Company-Trainer-2026-Infinite-Lunacy-God-Mode-Unlock-All-Identities/releases">
     <img src="https://img.shields.io/github/v/release/твой-ник/твой-репо?color=ff00aa&label=Latest%20Release&logo=github&logoColor=white&style=for-the-badge">
   </a>
 </p>
@@ -255,6 +255,7 @@ Pull requests приветствуются! Для серьезных измен
 ---
 
 **Примечание:** Функции являются UI-эмуляциями и не модифицируют реальную игру.
+
 
 
 
