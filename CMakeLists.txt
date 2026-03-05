@@ -1,42 +1,52 @@
-# Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
-# file LICENSE.rst or https://cmake.org/licensing for details.
+cmake_minimum_required(VERSION 3.10)
+project(LimbusCompanyTrainer)
 
-cmake_minimum_required(VERSION 4.1.2-msvc8)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Reject any attempt to use a toolchain file. We must not use one because
-# we could be downloading it here. If the CMAKE_TOOLCHAIN_FILE environment
-# variable is set, the cache variable will have been initialized from it.
-unset(CMAKE_TOOLCHAIN_FILE CACHE)
-unset(ENV{CMAKE_TOOLCHAIN_FILE})
+include(FetchContent)
 
-# We name the project and the target for the ExternalProject_Add() call
-# to something that will highlight to the user what we are working on if
-# something goes wrong and an error message is produced.
-
-project(glfw-populate NONE)
-
-
-# Pass through things we've already detected in the main project to avoid
-# paying the cost of redetecting them again in ExternalProject_Add()
-set(GIT_EXECUTABLE [==[C:/Program Files/Git/cmd/git.exe]==])
-set(GIT_VERSION_STRING [==[2.53.0.windows.1]==])
-set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
-  [==[C:/Program Files/Git/cmd/git.exe;2.53.0.windows.1]==]
+FetchContent_Declare(
+  glfw
+  GIT_REPOSITORY https://github.com/glfw/glfw.git
+  GIT_TAG 3.3.8
 )
 
+set(GLFW_BUILD_DOCS OFF CACHE BOOL "" FORCE)
+set(GLFW_BUILD_TESTS OFF CACHE BOOL "" FORCE)
+set(GLFW_BUILD_EXAMPLES OFF CACHE BOOL "" FORCE)
 
-include(ExternalProject)
-ExternalProject_Add(glfw-populate
-                     "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/glfw/glfw.git" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR" "GIT_TAG" "3.3.8"
-                    SOURCE_DIR          "C:/Users/Kimad/source/repos/Limbus Company/build/_deps/glfw-src"
-                    BINARY_DIR          "C:/Users/Kimad/source/repos/Limbus Company/build/_deps/glfw-build"
-                    CONFIGURE_COMMAND   ""
-                    BUILD_COMMAND       ""
-                    INSTALL_COMMAND     ""
-                    TEST_COMMAND        ""
-                    USES_TERMINAL_DOWNLOAD  YES
-                    USES_TERMINAL_UPDATE    YES
-                    USES_TERMINAL_PATCH     YES
+FetchContent_MakeAvailable(glfw)
+
+find_package(OpenGL REQUIRED)
+
+set(IMGUI_DIR ${CMAKE_CURRENT_SOURCE_DIR}/imgui)
+set(IMGUI_SOURCES
+    ${IMGUI_DIR}/imgui.cpp
+    ${IMGUI_DIR}/imgui_demo.cpp
+    ${IMGUI_DIR}/imgui_draw.cpp
+    ${IMGUI_DIR}/imgui_tables.cpp
+    ${IMGUI_DIR}/imgui_widgets.cpp
+    ${IMGUI_DIR}/backends/imgui_impl_glfw.cpp
+    ${IMGUI_DIR}/backends/imgui_impl_opengl3.cpp
 )
 
+add_executable(${PROJECT_NAME} WIN32
+    src/main.cpp
+    ${IMGUI_SOURCES}
+)
 
+target_include_directories(${PROJECT_NAME} PRIVATE
+    ${IMGUI_DIR}
+    ${IMGUI_DIR}/backends
+)
+
+target_link_libraries(${PROJECT_NAME}
+    glfw
+    OpenGL::GL
+)
+
+if(WIN32)
+    target_link_libraries(${PROJECT_NAME} opengl32)
+    set_target_properties(${PROJECT_NAME} PROPERTIES LINK_FLAGS "/SUBSYSTEM:WINDOWS /ENTRY:mainCRTStartup")
+endif()
